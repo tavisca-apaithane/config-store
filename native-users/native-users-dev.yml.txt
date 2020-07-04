@@ -1,2 +1,2 @@
-application:
-	name: native-users
+server:
+	port: 8180
